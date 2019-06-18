@@ -1,0 +1,19 @@
+body{
+	background-image: url('../images/background-scene.jpg');
+	background-size:100%;
+}
+.navbar{
+	background-color: white;
+	height: 95px;
+}
+.navbar img{
+	height:85px;
+	width:300px;
+	margin: 0 auto;
+}
+.container-fluid{
+	background-color:white;
+	height: 60px;
+	color: #F0A822;
+	line-height: 60px;
+}
